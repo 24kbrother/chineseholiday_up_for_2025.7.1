@@ -1,4 +1,5 @@
-# Chinese Holiday 中国节假日日历插件
+
+# Chinese Holiday 中国节假日日历插件 @Crazysiri : https://github.com/Crazysiri/chineseholiday
 ## 日历及节假日显示组件
 可以显示中国节假日, 周年, 纪念日, 生日等(支持农历和阴历)日历插件, 同时, 支持计算某个日期和时间已经过去了N年N月N天N小时N秒.
 
