@@ -1,15 +1,17 @@
 
-# Chinese Holiday 中国节假日日历插件 @Crazysiri : https://github.com/Crazysiri/chineseholiday
+# 由于Chinese Holiday 中国节假日日历插件原作者不再更新,调用的API已不再可用 (@Crazysiri : https://github.com/Crazysiri/chineseholiday)
+通过这个源,把所有节假日信息都转为本地处理,不再通过API调用
+
 ## 日历及节假日显示组件
 可以显示中国节假日, 周年, 纪念日, 生日等(支持农历和阴历)日历插件, 同时, 支持计算某个日期和时间已经过去了N年N月N天N小时N秒.
 
 
 # 安装
 ## HACS 安装(建议使用HACS安装和配置)
-0. 手动添加自定义存储库 https://github.com/Crazysiri/chineseholiday 
+0. 手动添加自定义存储库 https://github.com/24kbrother/chineseholiday_up_for_2025.7.1 
 1. HACS 添加集成 > 搜索 ```中国节假日日历```，点击下载
 
-配合此集成的[前端卡片](https://github.com/Crazysiri/chineseholiday_card)
+配合原作者的集成 [前端卡片]使用 (https://github.com/Crazysiri/chineseholiday_card)
 
 ## 手动安装
 下载 /custom_components/chineseholida 下的所有文件
@@ -72,7 +74,8 @@ sensor:
 
 
 # 更新
-
++ #### 2025-7-8 01:43:41 更新
+本地化节假日\节气\纪念日数据库,不再使用API接口调用信息
 
 + #### 2025-7-8 01:43:41 更新
 
