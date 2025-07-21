@@ -1,0 +1,16 @@
+{
+  "domain": "chineseholiday",
+  "name": "Chinese Holiday",
+  "version": "0.2.0.6",
+  "documentation": "https://github.com/Crazysiri/chineseholiday",
+  "requirements": [],
+  "dependencies": [],
+  "resources": [
+    "cal_lunar.ics",
+    "cal_festival.ics",
+    "cal_solarTerm.ics"
+  ],
+  "codeowners": [
+    "@Crazysiri"
+  ]
+}
